@@ -4,6 +4,7 @@ Wrapper to use the [Watson Developer Cloud][wdc] services.
 A collection of REST APIs and SDKs that use cognitive computing
 to solve complex problems.
 
+
 ## Table of Contents
   * [Watson Developer Cloud][wdc]
     * [Questions](#questions)
